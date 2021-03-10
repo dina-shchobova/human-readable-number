@@ -94,4 +94,3 @@ function toReadable (number) {
     return (str);
 }
 
-console.log(toReadable(215));
